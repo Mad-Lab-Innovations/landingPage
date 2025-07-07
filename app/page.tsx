@@ -275,7 +275,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="border-t border-gray-200 mt-8 pt-8 text-center text-gray-600">
-            <p>&copy; 2024 MaybeWith. Tous droits réservés.</p>
+            <p>&copy; 2025 MaybeWith. Tous droits réservés.</p>
           </div>
         </div>
       </footer>
